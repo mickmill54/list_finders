@@ -7,4 +7,4 @@ missing = 0
 num_list = build_list.build_list_of_numbers()
 missing = find_missing.find_missing_number(num_list)
 
-print("Mising Number in the list: ", missing)
+print("Missing number in the list: ", missing)
