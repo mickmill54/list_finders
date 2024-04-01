@@ -7,6 +7,4 @@ missing = 0
 num_list = build_list.build_list_of_numbers()
 missing = find_missing.find_missing_number(num_list)
 
-print("Mising Number index in list", missing)
-print("Number is missed in this range: ", num_list[int(missing -1)],"-", num_list[int(missing)])
-print("Missing number is: ",  num_list[int(missing -1)] + 1)
+print("Mising Number in the list: ", missing)
