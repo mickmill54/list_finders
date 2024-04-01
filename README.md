@@ -1,2 +1,5 @@
 # list_finders
-DIfferent ways to find missing items in lists.
+Different ways to find missing items in lists.
+
+### Reference
+https://www.geeksforgeeks.org/python-find-missing-numbers-in-a-sorted-list-range/
